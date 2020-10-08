@@ -1,6 +1,6 @@
 ## Welcome to Van-Thuy Phi's Page
 
-Postdoc+PhD+Master at NAIST
+Phi received the M.Sc. and Ph.D. degrees in information science from  Nara Institute of Science and Technology (NAIST), in 2016 and 2019, respectively. He is currently a postdoctoral researcher with the Nara Institute of Science and Technology (NAIST). His research interests include natural language processing and machine learning, in particular, information extraction.
 
 Research Interests:
 - Deep Learning & NLP (Information Extraction, Recommender Systems, etc.)
