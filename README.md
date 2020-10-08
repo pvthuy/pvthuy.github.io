@@ -1,6 +1,7 @@
 ## Welcome to Van-Thuy Phi's Page
 
 Postdoc+PhD+Master at NAIST
+
 Research Interests:
 - Deep Learning & NLP (Information Extraction, Recommender Systems, etc.)
 - Computer Vision (Object Detection + Semantic/Instance/Panoptic Segmentation, etc.)
