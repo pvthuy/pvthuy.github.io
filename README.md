@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
 Postdoc+PhD+Master at NAIST
-Research Interests: Deep Learning & NLP (Information Extraction, Recommender Systems, etc.) & Computer Vision (Object Detection + Semantic/Instance/Panoptic Segmentation, etc.)
+Research Interests:
+- Deep Learning & NLP (Information Extraction, Recommender Systems, etc.)
+- Computer Vision (Object Detection + Semantic/Instance/Panoptic Segmentation, etc.)
 
 ### Markdown
 
