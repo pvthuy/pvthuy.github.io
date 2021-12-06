@@ -8,3 +8,5 @@ Research Interests:
 - Deep Learning & NLP (Information Extraction, Recommender Systems, etc.)
 - Computer Vision (Object Detection + Semantic/Instance/Panoptic Segmentation, etc.)
 
+
+(The information on this site may not be updated frequently)
