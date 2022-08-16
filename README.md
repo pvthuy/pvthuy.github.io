@@ -1,6 +1,6 @@
 ## Welcome to Van-Thuy Phi's Page
 
-NEWS: I have moved to RIKEN Center for Advanced Intelligence Project (RIKEN AIP, RIKEN) as an Postdoctoral Researcher.
+NEWS: I have moved to RIKEN Center for Advanced Intelligence Project (RIKEN AIP, Nihonbashi, Tokyo) as an Postdoctoral Researcher.
 
 Please check my new [researchmap](https://researchmap.jp/pvt?lang=en).
 
