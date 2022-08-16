@@ -12,7 +12,7 @@ From 2019-2022, I was a postdoctoral fellow with the Nara Institute of Science a
 
 
 Research Interests:
-- Deep Learning & NLP (Information Extraction: Relation Extraction, NER; Recommender Systems etc.)
+- Deep Learning & NLP (Information Extraction: Relation Extraction, NER; Recommender Systems, etc.)
 - Computer Vision (Object Detection + Semantic/Instance/Panoptic Segmentation, etc.)
 
 
