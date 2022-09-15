@@ -4,7 +4,7 @@ News: I have moved to RIKEN Center for Advanced Intelligence Project (RIKEN AIP,
 
 I am also involved with National Institute for Materials Science (NIMS, Tsukuba, Ibaraki) as a visiting researcher.
 
-Please check my [researchmap](https://researchmap.jp/pvt?lang=en).
+Please refer to my [researchmap](https://researchmap.jp/pvt?lang=en) page.
 
 
 Previously, I received the M.Sc. and Ph.D. degrees in Information Science from  Nara Institute of Science and Technology ([NAIST](http://www.naist.jp/en/)) under the supervision of Prof. [Yuji Matsumoto](https://cl.naist.jp/staff/matsu/home-e.html), in 2016 and 2019, respectively.
